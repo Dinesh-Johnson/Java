@@ -6,12 +6,12 @@ public class Hotel{
 	//datatypes
 	byte numberOfWorkers = 123;
 	short numberOfRooms = 700;
-	int priceOfTheRoom = 1000;
-	long mobileNumber = 9513579l;
+	int priceOfTheRoom = 1111;
+	long mobileNumber = 9513524l;
 	float summerDiscount = 0.20f;
-	double suitRoomPrice = 12000;
+	double suitRoomPrice = 120450;
 	boolean payement = true;
-	char payementMethod= 'C';
+	char payementMethod= 'N';
 	System.out.println("Number Of Workers :"+ numberOfWorkers);
 	System.out.println("Number Of Rooms :" + numberOfRooms);
 	System.out.println("Price Of The Room :"+ priceOfTheRoom);
