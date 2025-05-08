@@ -9,7 +9,7 @@ public class Hotel{
 	int priceOfTheRoom = 1111;
 	long mobileNumber = 9513524l;
 	float summerDiscount = 0.20f;
-	double suitRoomPrice = 120450;
+	double suitRoomPrice = 120450.0;
 	boolean payement = true;
 	char payementMethod= 'N';
 	System.out.println("Number Of Workers :"+ numberOfWorkers);
