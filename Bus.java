@@ -47,7 +47,7 @@ public class Bus{
 		System.out.println("Divison" + divison);
 		System.out.println("Percentage:" + percentage);
 		System.out.println(--seats2);
-
+		System.out.println(++seats);
 
 	}
 
