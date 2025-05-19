@@ -1,6 +1,6 @@
 public class Series{
 
-	static byte bytes =127;
+	static byte bytes =;
 	static short shorts = 6200;
 	static int integer = 15236;
 	static long longs = 124578451l;

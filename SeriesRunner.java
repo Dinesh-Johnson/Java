@@ -24,6 +24,13 @@ public class SeriesRunner{
 		else{
 			System.out.println("The String Value is NUll");
 		}
+		if(Series.bytes !=0){
+			System.out.println("Byte Value is="+Series.bytes);
+		}
+		else{
+			System.out.println("The String Value is is="+Series.bytes);
+		}	
+		
 
 		System.out.println();
 
